@@ -12,7 +12,11 @@ export default class App extends Component {
       categories: [
         { id: 1, title: 'Dụng cụ trượt tuyết', imgSrc: Skii},
         { id: 2, title: 'Quần áo trượt tuyết', imgSrc: Skii},
-        { id: 3, title: 'Thuốc trượt tuyết', imgSrc: Skii}
+        { id: 3, title: 'Kính mũ', imgSrc: Skii},
+        { id: 4, title: 'Quần áo trượt tuyết', imgSrc: Skii},
+        { id: 5, title: 'Quần áo trượt tuyết', imgSrc: Skii},
+        { id: 6, title: 'Quần áo trượt tuyết', imgSrc: Skii},
+        { id: 7, title: 'Quần áo trượt tuyết', imgSrc: Skii}
       ]
     };
   };
